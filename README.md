@@ -17,9 +17,10 @@
   └── Unet_data.py: 自定义dataset读取数据集
 ```
 
-## 数据集下载地址：
-* 官网地址： [https://drive.grand-challenge.org/](https://drive.grand-challenge.org/)
-* 百度云链接： [https://pan.baidu.com/s/1Tjkrx2B9FgoJk0KviA-rDw](https://pan.baidu.com/s/1Tjkrx2B9FgoJk0KviA-rDw)  密码: 8no8
+## 代码下载地址：
+* 代码GitHub地址： [PrettyMagnolia/Unet-for-ENSO (github.com)](https://github.com/PrettyMagnolia/Unet-for-ENSO)
+* 数据集百度云链接： https://pan.baidu.com/s/1q4d_P5py_VXc6tROCnzjEQ 
+  提取码：xdbi
 
 
 ## 训练及测试方法
